@@ -3,7 +3,7 @@ layout: page
 ---
 
 ## About Me
-
+<img src="https://dannama.com/DannaMa.png" class="floatpic">
 I am a **Phd Candicate**<br> in Collective Embodied Intelligence Lab, advised by [Prof. Kirstin Petersen](https://cei.ece.cornell.edu/members/kirstin-h-petersen/) in the School of Electrical and Computer Engineering at Cornell University.
 
 
