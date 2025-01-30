@@ -7,7 +7,7 @@ url: https://dannama.com
 # Owner/author information
 owner:
   name: Danna Ma
-  avatar: DannaMa.png #root/image
+  avatar: root/image/DannaMa.png #root/image
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: dm797@cornell.edu
   cv: https://dannama.com/file/DannaMa_CV.pdf
@@ -30,8 +30,7 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
+
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
