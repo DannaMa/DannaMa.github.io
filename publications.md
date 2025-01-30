@@ -22,7 +22,7 @@ title: Publications
 
 ## Talks
 
-- “Smarticle into Collective Intelligence.” in [Enabling Robot Swarms Across Scales](https://swarmsatallscales.weebly.com/speakers.html) at International Conference on Intelligent Robots and Systems, Detroit, Michigan, USA, Oct. 2023
+- “Smarticle into Collective Intelligence.” in [Enabling Robot Swarms Across Scales](https://swarmsatallscales.weebly.com/speakers.html) workshop at International Conference on Intelligent Robots and Systems, Detroit, Michigan, USA, Oct. 2023
 
 <br>
 
