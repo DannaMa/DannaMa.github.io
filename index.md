@@ -40,7 +40,7 @@ I am a **Ph.D. Candicate** in the Collective Embodied Intelligence Lab, advised 
   </tr>
   <tr>
     <td style="width:15%; padding-right: 10px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Oct 2023:</strong></td>
-    <td style="text-align: left; padding-left: 10px;">Honored to be an invited speaker at [IROS 2023 Enabling Robot Swarms Across Scales workshop](https://swarmsatallscales.weebly.com/schedule.html).</td>
+    <td style="text-align: left; padding-left: 10px;">Honored to be an invited speaker at <a href="https://swarmsatallscales.weebly.com/schedule.html">IROS 2023 Enabling Robot Swarms Across Scales workshop</a>.</td>
   </tr>
   <tr>
     <td style="width:15%; padding-right: 10px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jan 2023:</strong></td>
@@ -48,11 +48,11 @@ I am a **Ph.D. Candicate** in the Collective Embodied Intelligence Lab, advised 
   </tr>
   <tr>
     <td style="width:15%; padding-right: 10px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jan 2023:</strong></td>
-    <td style="text-align: left; padding-left: 10px;">Interview featured on Cornell Engineering Spotlight *["Making ‘smart robotic matter’ smarter"](https://www.engineering.cornell.edu/spotlights/making-smart-robotic-matter-smarter)*.</td>
+    <td style="text-align: left; padding-left: 10px;">Interview featured on Cornell Engineering Spotlight <a href="https://www.engineering.cornell.edu/spotlights/making-smart-robotic-matter-smarter">"Making ‘smart robotic matter’ smarter"</a>.</td>
   </tr>
   <tr>
     <td style="width:15%; padding-right: 10px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Oct 2022:</strong></td>
-    <td style="text-align: left; padding-left: 10px;">Excited to present *["Smarticle 2.0: Design of Scalable, Entangled Smart Matter"](https://link.springer.com/chapter/10.1007/978-3-031-51497-5_36)* at DARS 2022.</td>
+    <td style="text-align: left; padding-left: 10px;">Excited to present <a href="https://link.springer.com/chapter/10.1007/978-3-031-51497-5_36">"Smarticle 2.0: Design of Scalable, Entangled Smart Matter"</a> at DARS 2022.</td>
   </tr>
   <tr>
     <td style="width:15%; padding-right: 10px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jul 2020:</strong></td>
@@ -60,7 +60,7 @@ I am a **Ph.D. Candicate** in the Collective Embodied Intelligence Lab, advised 
   </tr>
   <tr>
     <td style="width:15%; padding-right: 10px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jun 2020:</strong></td>
-    <td style="text-align: left; padding-left: 10px;">Excited to present *["Simple, low-cost fabrication of soft sensors for shape reconstruction"](https://ieeexplore.ieee.org/abstract/document/9067833)* at Robosoft; paper accepted in *IEEE Robotics and Automation Letters, 2020*.</td>
+    <td style="text-align: left; padding-left: 10px;">Excited to present <a href="https://ieeexplore.ieee.org/abstract/document/9067833">"Simple, low-cost fabrication of soft sensors for shape reconstruction"</a> at Robosoft; paper accepted in *IEEE Robotics and Automation Letters, 2020*.</td>
   </tr>
 </table>
 
