@@ -55,7 +55,7 @@ I am a **Ph.D. Candicate** in the Collective Embodied Intelligence Lab, advised 
     <td style="text-align: left; padding-left: 10px;">Excited to present <a href="https://link.springer.com/chapter/10.1007/978-3-031-51497-5_36"><i>"Smarticle 2.0: Design of Scalable, Entangled Smart Matter"</i></a> at DARS 2022.</td>
   </tr>
   <tr>
-    <td style="width:15%; padding-right: 10px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jul 2020:</strong></td>
+    <td style="width:15%; padding-right: 10px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>July 2020:</strong></td>
     <td style="text-align: left; padding-left: 10px;">Glad to be a teaching assistant for ECE 3140 Embedded Systems in Fall 2020.</td>
   </tr>
   <tr>
