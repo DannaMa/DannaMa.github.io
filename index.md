@@ -17,11 +17,11 @@ I am a **Ph.D. Candicate** in the Collective Embodied Intelligence Lab, advised 
 - Soft sensors and robots
 
 
-My current focus is on the design and control of physically intelligent robotic swarms, with the goal of understanding and harnessing the complex collective behaviors that arise through local interactions among agents. These swarms can exhibit highly coordinated actions despite individual agents having limited sensing and decision-making capabilities. I am particularly interested in how emergent behaviors—such as synchronization, aggregation, and task allocation—can be achieved through simple rules of interaction.
+> My current focus is on the design and control of physically intelligent robotic swarms, with the goal of understanding and harnessing the complex collective behaviors that arise through local interactions among agents. These swarms can exhibit highly coordinated actions despite individual agents having limited sensing and decision-making capabilities. I am particularly interested in how emergent behaviors—such as synchronization, aggregation, and task allocation—can be achieved through simple rules of interaction.
 <br>
-In my work, I design simple, low-cost soft sensors that are accessible to a wide range of users. I explore the integration of these sensors into robotic systems to enable greater flexibility and adaptability in dynamic environments. 
+> In my work, I design simple, low-cost soft sensors that are accessible to a wide range of users. I explore the integration of these sensors into robotic systems to enable greater flexibility and adaptability in dynamic environments. 
 <br>
-By leveraging principles of physical intelligence, I have also developed a robotic swarm that can function both as taskable robotic platforms and as smart materials.The swarm exhibits emergent behavior, adjusting its collective actions based on local interactions and feedback from the environment. The ultimate goal of my research is to develop resilient, scalable, and efficient robotic systems capable of operating effectively in complex, real-world environments.
+> By leveraging principles of physical intelligence, I have also developed a robotic swarm that can function both as taskable robotic platforms and as smart materials.The swarm exhibits emergent behavior, adjusting its collective actions based on local interactions and feedback from the environment. The ultimate goal of my research is to develop resilient, scalable, and efficient robotic systems capable of operating effectively in complex, real-world environments.
 
 ---
 
