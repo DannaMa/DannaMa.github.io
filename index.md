@@ -25,41 +25,41 @@ I am a **Ph.D. Candicate** in the Collective Embodied Intelligence Lab, advised 
 
 ## News and Updates
 
-<table style="width:100%; border-collapse: collapse; border: 1px solid #ddd;">
+<table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
-    <td style="width:20%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jan 2025:</strong></td>
+    <td style="width:10%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jan 2025:</strong></td>
     <td style="text-align: left; padding-left: 10px;">Paper accepted in ICRA 2025, *"Strain-Coordinated Formation, Migration, and Encapsulation Behaviors in a Tethered Robot Collective"*. See you in Atlanta!</td>
   </tr>
   <tr>
-    <td style="width:20%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Nov 2024:</strong></td>
+    <td style="width:10%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Nov 2024:</strong></td>
     <td style="text-align: left; padding-left: 10px;">Honored to be a guest lecturer for ECE 6680 *Bio-inspired Coordination of Multi-Agent Systems* in Fall 2024.</td>
   </tr>
   <tr>
-    <td style="width:20%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Oct 2024:</strong></td>
+    <td style="width:10%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Oct 2024:</strong></td>
     <td style="text-align: left; padding-left: 10px;">Attended DARS 2024 and presented on Smarticles, with a hardware demo.</td>
   </tr>
   <tr>
-    <td style="width:20%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Oct 2023:</strong></td>
+    <td style="width:10%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Oct 2023:</strong></td>
     <td style="text-align: left; padding-left: 10px;">Honored to be an invited speaker at [IROS 2023 Enabling Robot Swarms Across Scales workshop](https://swarmsatallscales.weebly.com/schedule.html).</td>
   </tr>
   <tr>
-    <td style="width:20%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jan 2023:</strong></td>
+    <td style="width:10%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jan 2023:</strong></td>
     <td style="text-align: left; padding-left: 10px;">Glad to be the head teaching assistant for ECE 2300 *Digital Logic and Computer Organization* in Spring 2023.</td>
   </tr>
   <tr>
-    <td style="width:20%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jan 2023:</strong></td>
+    <td style="width:10%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jan 2023:</strong></td>
     <td style="text-align: left; padding-left: 10px;">Interview featured on Cornell Engineering Spotlight *["Making ‘smart robotic matter’ smarter"](https://www.engineering.cornell.edu/spotlights/making-smart-robotic-matter-smarter)*.</td>
   </tr>
   <tr>
-    <td style="width:20%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Oct 2022:</strong></td>
+    <td style="width:10%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Oct 2022:</strong></td>
     <td style="text-align: left; padding-left: 10px;">Excited to present *["Smarticle 2.0: Design of Scalable, Entangled Smart Matter"](https://link.springer.com/chapter/10.1007/978-3-031-51497-5_36)* at DARS 2022.</td>
   </tr>
   <tr>
-    <td style="width:20%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jul 2020:</strong></td>
+    <td style="width:10%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jul 2020:</strong></td>
     <td style="text-align: left; padding-left: 10px;">Glad to be a teaching assistant for ECE 3140 *Embedded Systems* in Fall 2020.</td>
   </tr>
   <tr>
-    <td style="width:20%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jun 2020:</strong></td>
+    <td style="width:10%; padding-right: 15px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jun 2020:</strong></td>
     <td style="text-align: left; padding-left: 10px;">Excited to present *["Simple, low-cost fabrication of soft sensors for shape reconstruction"](https://ieeexplore.ieee.org/abstract/document/9067833)* at Robosoft; paper accepted in *IEEE Robotics and Automation Letters, 2020*.</td>
   </tr>
 </table>
