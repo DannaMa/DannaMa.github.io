@@ -12,9 +12,9 @@ title: Publications
 
 - **Danna Ma**, Kirstin H. Petersen, Todd Murphey, and Daniel I. Goldman. Smarticles 2.0 – Robotic Modules Designed for 3D Entanglement. Abstract at American Physical Society (APS), March meeting 2023.[(Abstract)](https://meetings.aps.org/Meeting/MAR23/Session/A09.11)
 
-- **Danna Ma**, Jiahe Chen, Sadie Cutler, and Kirstin Petersen. “Smarticle 2.0: Design of Scalable, Entangled Smart Matter.” In International Symposium on Distributed Autonomous Robotic Systems, pp. 509-522. Cham: Springer Nature Switzerland, 2022.[(Paper)](https://link.springer.com/chapter/10.1007/978-3-031-51497-5_36) [(BibTex)](https://dannama.com/file/BibTex/10.1007_978-3-031-51497-5_36-citation.bib)
+- **Danna Ma**, Jiahe Chen, Sadie Cutler, and Kirstin Petersen. “Smarticle 2.0: Design of Scalable, Entangled Smart Matter.” In International Symposium on Distributed Autonomous Robotic Systems, pp. 509-522. Cham: Springer Nature Switzerland, 2022.[(Paper)](https://link.springer.com/chapter/10.1007/978-3-031-51497-5_36) [(BibTex)](https://dannama.com/publications/BibTex/10.1007_978-3-031-51497-5_36-citation.bib)
 
-- **Danna Ma**†, Steven Ceron†, Gregory Kaiser, and Kirstin Petersen. “Simple, low-cost fabrication of soft sensors for shape reconstruction.” IEEE Robotics and Automation Letters 5, no. 3 (2020): 4049-4054.[(Paper)](https://ieeexplore.ieee.org/document/9067833?source=authoralert)[(Video)](https://bpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/0/60/files/2020/04/Video_softsleeve_RALetters-2020.mp4) [(BibTex)](https://dannama.com/file/BibTex/10.1109LRA.2020.2986746.bib)
+- **Danna Ma**†, Steven Ceron†, Gregory Kaiser, and Kirstin Petersen. “Simple, low-cost fabrication of soft sensors for shape reconstruction.” IEEE Robotics and Automation Letters 5, no. 3 (2020): 4049-4054.[(Paper)](https://ieeexplore.ieee.org/document/9067833?source=authoralert)[(Video)](https://bpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/0/60/publications/2020/04/Video_softsleeve_RALetters-2020.mp4) [(BibTex)](https://dannama.com/publications/BibTex/10.1109LRA.2020.2986746.bib)
 
  <br>
 
