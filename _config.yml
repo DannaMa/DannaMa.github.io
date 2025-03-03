@@ -7,11 +7,12 @@ url: https://dannama.com
 # Owner/author information
 owner:
   name: Danna Ma
-  avatar: DannaIcon.JPG #root/images
+  avatar: favicon.jpg #DannaIcon.JPG #root/images
   email: dm797@cornell.edu
   cv: https://dannama.com/file/DannaMa_CV.pdf
   scholar: https://scholar.google.com/citations?user=aL6CjKEAAAAJ&hl=en
   linkedin: dannama #linkedin ID
+  orcid: https://orcid.org/0000-0002-9692-3699
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
