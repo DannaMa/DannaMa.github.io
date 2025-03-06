@@ -22,7 +22,9 @@ title: Publications
 
 ## Talks
 
-- “Smarticle into Collective Intelligence.” in [Enabling Robot Swarms Across Scales](https://swarmsatallscales.weebly.com/speakers.html) workshop at International Conference on Intelligent Robots and Systems, Detroit, Michigan, USA, Oct. 2023
+- “Smarticle into Collective Intelligence.” in [Enabling Robot Swarms Across Scales](https://swarmsatallscales.weebly.com/speakers.html) workshop at International Conference on Intelligent Robots and Systems, Detroit, Michigan, USA, October 2023.
+
+- ["Harnessing Physical Intelligence for Collective Motion in Robotic Matter"](https://www.grasp.upenn.edu/events/spring-2025-grasp-sfi-danna-ma/) in the GRASP Student Faculty Industry Seminar Series, University of Pennsylvania, Philadelphia, Pennsylvania, USA, March 2025.
 
 <br>
 
