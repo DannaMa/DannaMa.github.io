@@ -7,14 +7,14 @@ layout: page
 I am a **Ph.D. Candidate** in the Collective Embodied Intelligence Lab, advised by [Prof. Kirstin Petersen](https://cei.ece.cornell.edu/members/kirstin-h-petersen/) in the School of Electrical and Computer Engineering at Cornell University. I received my Master's degree in Electrical and Computer Engineering from Cornell University in 2018, and my Bachelor's degree in Electrical Engineering from the National University of Singapore in 2016.
 
 
-**<font color="#990000">I am actively seeking for a postdoctoral researcher position for Fall 2025. If you have any information, please contact me at [*dm797@cornell.edu*](mailto:dm797@cornell.edu). Thank you!</font>**
+<span style="color: #990000; font-weight: bold;">I am actively seeking for a postdoctoral researcher position for Fall 2025. If you have any information, please contact me at <a href="mailto:dm797@cornell.edu">dm797@cornell.edu</a>. Thank you!</span>
 
 ---
 ## Research Interests
 
 - Physically intelligent robotic swarms
 - Emergent behaviors
-- Soft sensors and robots
+- Soft sensors and soft robots
 
 <p style="text-indent: 1em;"> My current focus is on the design and control of physically intelligent robotic swarms, with the goal of understanding and harnessing the complex collective behaviors that arise through local interactions among agents. These swarms can exhibit highly coordinated actions despite individual agents having limited sensing and decision-making capabilities. I am particularly interested in how emergent behaviors—such as synchronization, aggregation, and task allocation—can be achieved through simple rules of interaction.</p>
 <p style="text-indent: 1em;"> In my work, I have designed an affordable soft sensor for broad accessibility. I investigate how these sensors can be integrated into robotic systems that require flexibility and bio-safe applications.</p>
