@@ -5,7 +5,7 @@ title: Research
 ---
 ## [Simple, Low-Cost Fabrication of Soft Sensors for Shape Reconstruction](https://dannama.com/research/SoftSleeve/Simple_Low-Cost_Fabrication_of_Soft_Sensors_for_Shape_Reconstruction.pdf)
 
-<div class="image-container">
+<div class="image-wrap">
   <img src="/research/SoftSleeve/procedure.png" alt="Procedure Image">
   <img src="/research/SoftSleeve/Grape.gif" alt="Grape GIF">
 </div>
