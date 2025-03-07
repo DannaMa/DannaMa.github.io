@@ -11,11 +11,15 @@ title: Research
   </div>
 
   <div class="column">
-    <img src="/research/SmarticleDARS/simulation.gif" alt="Simulation GIF">
+    <img src="/research/SmarticleDARS/TactileSensing.gif" alt="Tactile Sensing Gif">
   </div>
 </div>
 
 <div class="row">
+  <div class="column">
+    <img src="/research/SmarticleDARS/simulation.gif" alt="Simulation GIF">
+  </div>
+
   <div class="column">
     <img src="/research/SmarticleDARS/attractiveForce.gif" alt="Attractive Force Gif">
   </div>
