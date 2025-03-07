@@ -7,7 +7,7 @@ layout: page
 I am a **Ph.D. Candidate** in the Collective Embodied Intelligence Lab, advised by [Prof. Kirstin Petersen](https://cei.ece.cornell.edu/members/kirstin-h-petersen/) in the School of Electrical and Computer Engineering at Cornell University. I received my Master's degree in Electrical and Computer Engineering from Cornell University in 2018, and my Bachelor's degree in Electrical Engineering from the National University of Singapore in 2016.
 
 
-**<font color="#990000">I am actively seeking for a postdoctoral researcher position for Fall 2025. If you have any information, please contact me at <i>dm797@cornell.edu<i>. Thank you!</font>**
+**<font color="#990000">I am actively seeking for a postdoctoral researcher position for Fall 2025. If you have any information, please contact me at [*dm797@cornell.edu*](mailto:dm797@cornell.edu). Thank you!</font>**
 
 ---
 ## Research Interests
