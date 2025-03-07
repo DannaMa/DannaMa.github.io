@@ -7,11 +7,15 @@ title: Research
 
 
 <div class="row">
-  <div class="column">
-    <img src="/research/SoftSleeve/procedure.png" alt="Procedure Image" style="width:100%">
+  <!-- Left column with two images stacked -->
+  <div class="column left-column">
+    <img src="/research/SoftSleeve/procedure1.png" alt="Procedure Image 1">
+    <img src="/research/SoftSleeve/procedure2.png" alt="Procedure Image 2">
   </div>
+
+  <!-- Right column with the GIF -->
   <div class="column">
-    <img src="/research/SoftSleeve/Grape.gif" alt="Grape GIF" style="width:100%">
+    <img src="/research/SoftSleeve/Grape.gif" alt="Grape GIF">
   </div>
 </div>
 
