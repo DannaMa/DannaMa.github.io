@@ -4,20 +4,23 @@ permalink: /research/index.html
 title: Research
 ---
 
-## [Smarticle 2.0: Design of Scalable, Entangled Smart Matter.](https://dannama.com/research/SmarticleDARS/Smarticle2.0_Design_of_Scalable,Entangled_Smart_Matter.pdf)
-
 <div class="row">
-  <div class="column left-column">
+  <div class="column">
     <img src="/research/SmarticleDARS/singleRobot.gif" alt="Single Robot Gif">
   </div>
 
-  <div class="column middle-column">
+  <div class="column">
     <img src="/research/SmarticleDARS/attractiveForce.gif" alt="Attractive Force Gif">
   </div>
+</div>
 
+<div class="row">
   <div class="column">
     <img src="/research/SmarticleDARS/simulation.gif" alt="Simulation GIF">
   </div>
+</div>
+
+
 </div>
 
 <p>We present a new iteration of smart active matter modules capable of unprecedented 3D entanglement, designed specifically for fabrication and operation at large scales by a range of scientific users. We discuss the benefits of entanglement compared to traditional rigid, lattice formations in active matter and modular robots, and the design which supports low cost, a small and appropriate form factor, low weight, low barrier-of-entry, and ease of operation. We characterize the platform in terms of actuation repeatability and longevity, lifting and holding strength, a number of sensing modalities, and battery life. We demonstrate short and (relatively) long range communication using tactile and acoustic transceivers. We further show exploratory collective behaviors with up to 10 modules, including static entanglement and self disassembly. We hope that this open-source ‘robo-physical’ platform can pave the way for new innovations across the fields of modular robots and active and soft matter.<p>
