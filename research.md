@@ -17,7 +17,7 @@ title: Research
 
 <div class="row">
   <div class="column">
-    <img src="/research/SmarticleDARS/simulation.gif" alt="Simulation GIF">
+    <img src="/research/SmarticleDARS/simulation1.gif" alt="Simulation GIF">
   </div>
 
   <div class="column">
