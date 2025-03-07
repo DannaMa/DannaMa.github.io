@@ -3,7 +3,7 @@ layout: page
 permalink: /research/index.html
 title: Research
 ---
-## Simple, Low-Cost Fabrication of Soft Sensors for Shape Reconstruction
+## [Simple, Low-Cost Fabrication of Soft Sensors for Shape Reconstruction] (https://dannama.com/research/SoftSleeve/Simple_Low-Cost_Fabrication_of_Soft_Sensors_for_Shape_Reconstruction.pdf)
 
 <div class="image-container">
   <img src="/research/SoftSleeve/procedure.png" alt="Procedure Image">
