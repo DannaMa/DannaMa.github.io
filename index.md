@@ -3,7 +3,7 @@ layout: page
 ---
 
 ## About Me
-<img src="https://www.dannama.com/images/IMG_5377.JPG" class="floatpic">
+<img src="https://www.dannama.com/images/homePage.JPG" class="floatpic">
 I am a **Ph.D. Candidate** in the Collective Embodied Intelligence Lab, advised by [Prof. Kirstin Petersen](https://cei.ece.cornell.edu/members/kirstin-h-petersen/) in the School of Electrical and Computer Engineering at Cornell University. I received my Master's degree in Electrical and Computer Engineering from Cornell University in 2018, and my Bachelor's degree in Electrical Engineering from the National University of Singapore in 2016.
 
 
