@@ -21,7 +21,7 @@ title: Research
   </div>
 
   <div class="column">
-    <img src="/research/SmarticleDARS/attractiveForce2.gif" alt="Attractive Force Gif">
+    <img src="/research/SmarticleDARS/attractiveForce3.gif" alt="Attractive Force Gif">
   </div>
 </div>
 
