@@ -301,8 +301,9 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
 .recent-grid:after{clear:both;}
 .recent-grid li{display:inline;}.recent-grid li a{border-bottom:0 solid transparent;}.recent-grid li a:hover{border-bottom:0 solid transparent;}
 .recent-grid img{width:19%;margin-bottom:1%;}
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-/* Flexbox for .row container */
+
+
+/* Flex container for rows */
 .row {
   display: flex;
   flex-wrap: wrap;   /* Ensure items can wrap to the next line if needed */
@@ -321,12 +322,19 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
   height: auto;      /* Maintain aspect ratio */
 }
 
-/* Ensure layout stacks to 1 column on small screens */
+/* Ensure layout stacks to 1 column on very small screens (below 480px) */
 @media screen and (max-width: 768px) {
+  .column {
+    flex: 1 1 48%;   /* Keep columns in 2 for medium-size screens (tablets/phones) */
+  }
+}
+
+@media screen and (max-width: 480px) {
   .column {
     flex: 1 1 100%;   /* Stack the columns to 100% width (1 column on small screens) */
   }
 }
+
 
 .holder{font-family:'PT Sans Narrow',sans-serif;}.holder a{cursor:pointer;margin:0 5px;}
 .holder a.jp-previous{margin-left:0;margin-right:15px;}
