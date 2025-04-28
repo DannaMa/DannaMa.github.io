@@ -27,7 +27,7 @@ I am a **Ph.D. Candidate** in the Collective Embodied Intelligence Lab, advised 
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="width:15%; padding-right: 10px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Mar 2025:</strong></td>
-    <td style="text-align: left; padding-left: 10px;">Upcoming talk in the GRASP Student Faculty Industry Seminar Series <a href="https://www.grasp.upenn.edu/events/spring-2025-grasp-sfi-danna-ma/"><i>"Harnessing Physical Intelligence for Collective Motion in Robotic Matter"</i></a>. See you at University of Pennsylvania!</td>
+    <td style="text-align: left; padding-left: 10px;">Honored to be an invited speaker for the GRASP Student Faculty Industry Seminar Series <a href="https://www.grasp.upenn.edu/events/spring-2025-grasp-sfi-danna-ma/"><i>"Harnessing Physical Intelligence for Collective Motion in Robotic Matter"</i></a></td>
   </tr>
   <tr>
     <td style="width:15%; padding-right: 10px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Jan 2025:</strong></td>
