@@ -4,8 +4,9 @@ layout: page
 
 ## About Me
 <img src="https://www.dannama.com/images/homePage.JPG" class="floatpic">
-I am a visiting lecturer in Electrical and Computer Engineering at Cornell University. I earned my Ph.D. in Electrical and Computer Engineering from Cornell in 2025 under the supervision of [Prof. Kirstin Petersen](https://cei.ece.cornell.edu/members/kirstin-h-petersen/). I received my Master's degree in Electrical and Computer Engineering from Cornell University in 2018, and my Bachelor's degree in Electrical Engineering from the National University of Singapore in 2016.
 
+I am a roboticist specializing in swarm robotics, physically intelligent systems, and distributed control, currently serving as a Visiting Lecturer in Electrical and Computer Engineering at Cornell University. I develop swarms that “think” with their bodies rather than solely with their “brains,” exploring how embodied mechanics and minimal sensing can enable collective motion, cohesion, and adaptability in robotic matter.
+I earned my Ph.D. in Electrical and Computer Engineering from Cornell in 2025 under the supervision of [Prof. Kirstin Petersen](https://cei.ece.cornell.edu/members/kirstin-h-petersen/). I received my Master's degree in Electrical and Computer Engineering from Cornell University in 2018, and my Bachelor's degree in Electrical Engineering from the National University of Singapore in 2016.
 
 <span style="color: #990000; font-weight: bold;">I am actively seeking a postdoctoral researcher or tenure-track assistant professor position starting Fall 2026. If you have relevant opportunities, please contact me at <a href="mailto:dm797@cornell.edu">dannama@cornell.edu</a>. Thank you!</span>
 
@@ -27,7 +28,7 @@ I am a visiting lecturer in Electrical and Computer Engineering at Cornell Unive
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="width:15%; padding-right: 10px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>July 2025:</strong></td>
-    <td style="text-align: left; padding-left: 10px;">Honored to be an invited speaker at the Multi-Robot Systems Lab, Stanford University.</a></td>
+    <td style="text-align: left; padding-left: 10px;">Honored to be an invited speaker at the Multi-Robot Systems Lab, Stanford University.</td>
   </tr>
   <tr>
     <td style="width:15%; padding-right: 10px; vertical-align: top; font-weight: bold; text-align: left; padding-left: 10px;"><strong>Mar 2025:</strong></td>
