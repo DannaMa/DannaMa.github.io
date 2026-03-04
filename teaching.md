@@ -33,7 +33,7 @@ title: Teaching
 
   .project-title {
     margin-top: 0;
-    margin-bottom: 5px;
+    margin-bottom: 2px; /* Tightens space above the subtitle */
     font-size: 1.4em;
     font-weight: bold;
     text-transform: uppercase;
@@ -51,11 +51,12 @@ title: Teaching
   .project-subtitle {
     display: block;
     font-style: italic;
-    margin-bottom: 15px;
+    margin-bottom: 8px;/* Tightens space below the subtitle/above paragraph */
     color: #555;
   }
 
   .project-description {
+    margin-top: 0; /* Ensures the paragraph doesn't push away from the subtitle */
     line-height: 1.6;
     color: #333;
     text-align: justify;
