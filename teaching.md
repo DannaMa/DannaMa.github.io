@@ -87,6 +87,21 @@ Design of microcontroller based systems using embedded Linux. Student teams desi
 
 <div class="project-entry">
   <div class="project-image-container">
+    <img src="/teaching/SelectedStudentProjects/GooseGooseDuck.jpg" alt="Goose Goose Duck Image">
+  </div>
+  <div class="project-text">
+    <h3 class="project-title"><a href="https://sites.coecis.cornell.edu/ece5725f25/ece5725-fall-2025-projects/goose-goose-duck/">Goose Goose Duck</a></h3>
+    <span class="project-subtitle">A swarm robot system with mother and kid</span>
+    <p class="project-description">
+      Once upon a time, a baby duckling was following its mother around the ECE 5725 town…but the duckling had a bad sense of direction. For this project, we plan to build two robots, consisting of one leader and one follower, to mimic the behavior of a mother duck and a baby duck.
+
+      Our project features two robots, a leader and a follower, acting as a robotic mother duck 🦆 and baby duck 🐤. While the mother was moving, the baby carefully followed the mom, but sometimes got “lost” and cried dramatically. The mother would then try to find the baby by colour recognition with an equipped camera, like a tiny rescue mission. After the reunion, they ended up spinning and dancing happily together.
+    </p>
+  </div>
+</div>
+
+<div class="project-entry">
+  <div class="project-image-container">
     <img src="/teaching/SelectedStudentProjects/Battleship.png" alt="Battleship Project Image">
   </div>
   <div class="project-text">
