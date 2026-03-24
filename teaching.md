@@ -80,7 +80,7 @@ Design of microcontroller based systems using embedded Linux. Student teams desi
     <h3 class="project-title"><a href="https://sites.coecis.cornell.edu/ece5725f25/ece5725-fall-2025-projects/sample-page/">PI-ANO</a></h3>
     <span class="project-subtitle">An Interactive Musical Platform</span>
     <p class="project-description">
-      This project implements a fully playable 2D interstellar real-time strategy (RTS) game on a Raspberry Pi 4, built with Python/Pygame and integrated with embedded peripherals. Players can pan and zoom across star systems, buy food, hire workers, mine minerals, colonize planets, manage resources, and battle an AI opponent. To highlight the embedded aspect, the game state is bound to a physical NeoPixel LED strip, providing high-salience feedback. Additionally, the PiTFT’s 4 hardware buttons are mapped to frequently-used in-game actions like pausing and trading.
+      Pi-ano is motivated by the idea of turning simple hand gestures into a joyful and expressive musical experience. We wanted to build an interface where users can play music without touching anything, and visually watch the sound “flow” across LEDs. To achieve this, the project combines real-time gesture sensing, low-latency audio generation, and synchronized LED animation on an embedded system. This allows us to explore how affordable hardware can support natural, high-responsive interaction while transforming music into both an auditory and visual form of play.
     </p>
   </div>
 </div>
