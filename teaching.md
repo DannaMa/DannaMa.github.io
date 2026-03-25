@@ -120,6 +120,7 @@ Design of microcontroller based systems using embedded Linux. Student teams desi
 
 <ul class="project-list">
   <li><strong>2025 Fall Semester:</strong> <a href="https://sites.coecis.cornell.edu/ece5725f25/ece5725-fall-2025-projects/">ece5725-fall-2025-projects</a></li>
+  <li><strong>2024 Spring Semester:</strong> <a href="https://skovira.ece.cornell.edu/ece5725-spring-2024-projects/">ece5725-spring-2024-projects</a></li> 
   <li><strong>2023 Fall Semester:</strong> <a href="https://skovira.ece.cornell.edu/ece5725-fall-2023-projects/">ece5725-fall-2023-projects</a></li>
   <li><strong>2023 Spring Semester:</strong> <a href="https://skovira.ece.cornell.edu/ece5725-spring-2023-projects/">ece5725-spring-2023-projects</a></li>
   <li><strong>2022 Fall Semester:</strong> <a href="https://skovira.ece.cornell.edu/ece5725-fall-2022-projects/">ece5725-fall-2022-projects</a></li>
