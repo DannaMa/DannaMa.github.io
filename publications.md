@@ -5,7 +5,7 @@ title: Publications
 ---
 
 ## Conference and Journal Papers
-- **Danna Ma**, Baxi Chong, Daniel I. Goldman, Kirstin Petersen. Cross-link Collective: Entangled Robotic Matter with Cohesive Motion, Science Robotics (2026).[(Paper)](https://www.science.org/doi/epdf/10.1126/scirobotics.aec6393) <img src="https://www.dannama.com/research/CrossLink/SR_Featured.jpg" class="floatpic">[(Video)](https://www.dannama.com/research/CrossLink/Overview_Crosslink_Collective.mp4)
+- **Danna Ma**, Baxi Chong, Daniel I. Goldman, Kirstin Petersen. Cross-link collective: Entangled robotic matter with cohesive motion.Sci. Robot.11,eaec6393(2026).DOI:10.1126/scirobotics.aec6393.[(Paper)](https://www.science.org/doi/epdf/10.1126/scirobotics.aec6393) <img src="https://www.dannama.com/research/CrossLink/SR_Featured.jpg" class="floatpic">[(Video)](https://www.dannama.com/research/CrossLink/Overview_Crosslink_Collective.mp4)[(BibTex)](https://www.dannama.com/research/CrossLink/csp_11_.bib)
 
 - Sadie Cutler, **Danna Ma**, Kirstin H. Petersen. Strain-Coordinated Formation, Migration, and Encapsulation Behaviors in a Tethered Robot Collective.2025 IEEE International Conference on Robotics and Automation(ICRA).[(Paper)](https://dannama.com/research/TetheredSwarmICRA/Strain_Coordinated_Formation,Migration,and_Encapsulation_Behaviors_in_a_Tethered_Robot_Collective.pdf)
 
@@ -13,7 +13,7 @@ title: Publications
 
 - **Danna Ma**, Jiahe Chen, Sadie Cutler, and Kirstin Petersen. “Smarticle 2.0: Design of Scalable, Entangled Smart Matter.” In International Symposium on Distributed Autonomous Robotic Systems, pp. 509-522. Cham: Springer Nature Switzerland, 2022.[(Paper)](https://dannama.com/research/SmarticleDARS/Smarticle2.0_Design_of_Scalable,Entangled_Smart_Matter.pdf)[(PaperLink)](https://link.springer.com/chapter/10.1007/978-3-031-51497-5_36)[(BibTex)](https://dannama.com/publications/BibTex/10.1007_978-3-031-51497-5_36-citation.bib)
 
-- **Danna Ma**†, Steven Ceron†, Gregory Kaiser, and Kirstin Petersen. “Simple, low-cost fabrication of soft sensors for shape reconstruction.” IEEE Robotics and Automation Letters 5, no. 3 (2020): 4049-4054.[(Paper)](https://dannama.com/research/SoftSleeve/Simple_Low-Cost_Fabrication_of_Soft_Sensors_for_Shape_Reconstruction.pdf)[PaperLink](https://ieeexplore.ieee.org/document/9067833?source=authoralert)[(Video)](https://bpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/0/60/publications/2020/04/Video_softsleeve_RALetters-2020.mp4)[(BibTex)](https://dannama.com/publications/BibTex/10.1109LRA.2020.2986746.bib)
+- **Danna Ma**†, Steven Ceron†, Gregory Kaiser, and Kirstin Petersen. “Simple, low-cost fabrication of soft sensors for shape reconstruction.” IEEE Robotics and Automation Letters 5, no. 3 (2020): 4049-4054.[(Paper)](https://dannama.com/research/SoftSleeve/Simple_Low-Cost_Fabrication_of_Soft_Sensors_for_Shape_Reconstruction.pdf)[PaperLink](https://ieeexplore.ieee.org/document/9067833?source=authoralert)[(Video)](https://www.dannama.com/research/SoftSleeve/Video_softsleeve_RALetters-2020.mp4)[(BibTex)](https://dannama.com/publications/BibTex/10.1109LRA.2020.2986746.bib)
 
  <br>
 > (†: equally contributing authors.)
