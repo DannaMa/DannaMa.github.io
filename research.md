@@ -10,7 +10,6 @@ title: Research
   <div class="column">
     <img src="/research/CrossLink/WithControl_Rep1_100X.gif" alt="Tactile Sensing Gif">
   </div>
-</div>
 
   <div class="column">
     <img src="/research/CrossLink/attractiveForce.gif" alt="Attractive Force Gif">
