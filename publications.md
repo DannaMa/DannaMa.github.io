@@ -5,7 +5,7 @@ title: Publications
 ---
 
 ## Conference and Journal Papers
-- **Danna Ma**, Baxi Chong, Daniel I. Goldman, Kirstin Petersen. Cross-link Collective: Entangled Robotic Matter with Cohesive Motion, Science Robotics (2025) (under review)
+- **Danna Ma**, Baxi Chong, Daniel I. Goldman, Kirstin Petersen. Cross-link Collective: Entangled Robotic Matter with Cohesive Motion, Science Robotics (2026).[(Paper)](https://www.science.org/doi/epdf/10.1126/scirobotics.aec6393) 
 
 - Sadie Cutler, **Danna Ma**, Kirstin H. Petersen. Strain-Coordinated Formation, Migration, and Encapsulation Behaviors in a Tethered Robot Collective.2025 IEEE International Conference on Robotics and Automation(ICRA).[(Paper)](https://dannama.com/research/TetheredSwarmICRA/Strain_Coordinated_Formation,Migration,and_Encapsulation_Behaviors_in_a_Tethered_Robot_Collective.pdf)
 
